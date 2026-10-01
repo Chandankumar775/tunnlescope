@@ -1,0 +1,28 @@
+node_modules/
+dist/
+build/
+.next/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+.tmp/
+.impeccable/questions/
+.impeccable/review/
+
+# local tooling and history
+.history/
+.vercel/
+.impeccable/refs/
+# design reference images (third-party artwork, not used by the app)
+images/
+.impeccable/answer.txt
