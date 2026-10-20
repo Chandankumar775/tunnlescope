@@ -99,9 +99,6 @@ src/
   components/   shared UI: PacketRibbon, BarField, ScoreDial, Tour, AskPanel
   data/         scenarios, scoring engine, fixes, models, analysis builder
   lib/          types, store, auth, reports, pcap export, offline Q&A
-requirements/   pitch deck source (slides.md)
-PRODUCT.md      product truth
-DESIGN.md       landing page design system
 ```
 
 ## Honest limits
