@@ -16,13 +16,9 @@ Thumbs.db
 *.log
 
 .tmp/
-.impeccable/questions/
-.impeccable/review/
 
 # local tooling and history
 .history/
 .vercel/
-.impeccable/refs/
 # design reference images (third-party artwork, not used by the app)
 images/
-.impeccable/answer.txt
