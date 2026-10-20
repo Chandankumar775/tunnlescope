@@ -1,6 +1,6 @@
 <div align="center">
 
-# TunnelScope
+<img src="docs/brand/wordmark.webp" alt="TunnelScope" width="100%">
 
 **Reads encrypted IPsec VPN traffic and tells you how safe the tunnel is, without decrypting a single packet.**
 
